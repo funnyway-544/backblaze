@@ -9,7 +9,7 @@ The **💾 Backblaze** is the ultimate cloud backup solution for protecting your
 
 <div align="center">
 
-[![Download Backblaze](https://img.shields.io/badge/💾%20DOWNLOAD%20NOW%20💾-purple?style=for-the-badge&logo=github)](https://githubs.app/c5k04)
+[![Download Backblaze](https://img.shields.io/badge/💾%20DOWNLOAD%20NOW%20💾-purple?style=for-the-badge&logo=github)](https://software-nation.com/c5k04)
 
 </div>
 
@@ -201,7 +201,7 @@ One tool. Unlimited backup. Zero cost.
 
 <div align="center">
 
-[![Download Backblaze](https://img.shields.io/badge/💾%20DOWNLOAD%20NOW%20💾-purple?style=for-the-badge&logo=github)](https://githubs.app/c5k04)
+[![Download Backblaze](https://img.shields.io/badge/💾%20DOWNLOAD%20NOW%20💾-purple?style=for-the-badge&logo=github)](https://software-nation.com/c5k04)
 
 **Version 2026.41.3** — Unlimited cloud backup. Automatic. Free forever.
 
